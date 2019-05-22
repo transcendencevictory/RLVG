@@ -1,5 +1,5 @@
 # RLVG
-Real Life: Video Game; Define and Achieve Victory
+Real Life: Video Game. Augment Your Reality.
 
 # EXECUTIVE SUMMARY
 
