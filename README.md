@@ -72,17 +72,43 @@ To expedite evolution
 # FEATURES
 
 # MindFlower
-Industry Standardized Certification Programs
-Created and Taught by Field-Active Workers
+MindFlower is a Global University, 
+Online + In-Person 
+that aims to standardize education worldwide 
+by certifying the 'best practices' for each industry. 
+Certification programs are created and taught by field-active workers so all the information is up-to-date and industry standard, 
+and each program is designed to develop specific skills that can be practically applied, 
+so that neither applicants nor employers have to worry that applicants are coming into the workforce underinformed or incompetent. 
+The skills taught through the programs are logged and organized into a Skill Tree to be utilized by the following apps.
 
 # Adventure Guide
-Choose your Pioneering Project
-Professions + Career Paths
-Skill Tree - Add Your Skill!
+Using the Skill Tree from MindFlower, 
+this application guides users through the process of 'individuation', 
+where the user defines their highest values, 
+deepest motivations, 
+and biggest personal goals. 
+Once the user is clear on their own purpose and passion, 
+Adventure Guide walks the user through the creation of their Life Project: 
+the unifying goal the user will devote their life to accomplishing. 
+Using this information, 
+the user is guided through the process of determining which skills will be required to accomplish their Life Goal, 
+and helped to prioritize the order in which those skills are learned.
 
 # Quest-Log
-MegaProject Management Guide
-Organize, Prioritize, Schedule your goals
+Once a person has chosen their Life Project, 
+they become eligible to use the Quest Log: 
+the Social Collaboration App that combines all existing project management software into one application. 
+This is where the Life Project is strategically broken down into stages and step-by-step goals. 
+This is also where likeminded individuals with a diverse set of skills go to collaborate with others on Life Projects. 
+For example, 
+if a person dedicates their life to solving climate change by developing technologies used to control the weather, 
+then they will find on their Recommended Friends' page a bunch of people with the same goal, 
+categorized by individual skills and accomplishments. 
+Quest Log is on both Desktop and Mobile, 
+and by default will hold your Life Project on your lock screen along with your next steps, 
+so you never feel lost along the way. 
+The Life Project can be changed or modified at any time as the user grows in skill and competency, 
+and as the world rapidly changes around them.
 
 # Global Chat
 Recruit experts from around the world to help you with your vision!
