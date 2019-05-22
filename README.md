@@ -66,34 +66,46 @@ To incentivize global cooperation
 To revitilize the spirit of cameraderie throughout mankind
 To facilitate social projects
 To promote productive optimism
-To enhance a persons' sense of individuality
+To enhance users' sense of individuality
 To expedite evolution
 
 # FEATURES
+
+# MindFlower
+Industry Standardized Certification Programs
+Created and Taught by Field-Active Workers
+
+# Adventure Guide
+Choose your Pioneering Project
+Professions + Career Paths
+Skill Tree - Add Your Skill!
+
+# Quest-Log
+MegaProject Management Guide
+Organize, Prioritize, Schedule your goals
+
 # Global Chat
 Recruit experts from around the world to help you with your vision!
 
 # Guild System
+Companies within and across Industries form guilds to collaborate on MegaProjects.
 Accomplish missions with a huge team of specialists!
 Guild Mission | Guild Challenges
+
+# Common Ground Chat
+Where opposing guilds go to mediate their differences.
 
 # Party System
 Tackle Real-World Challenges with your friends!
 
 # Character Page
 Track your personal progress over time!
-(Health) Stats | Reputation + Titles | Currency | Friends
-
-# Skill Trees
-Abilities and Professions
-
-# Quest-Log
-
-# Adventure Guide
+Credentials | Portfolio of Creations | Currency | Friends
 
 # Achievements
 Guild Achievements | Personal Accomplishments | Accolades | Public Resume
 
 # Notes
+Create and organize documents
 
 # Map of Earth
