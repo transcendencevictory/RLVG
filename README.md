@@ -53,8 +53,6 @@ The world is ready for an application that guides its users through the process 
 The world is ready for a social collaboration tool that can transcend the political machine and hand the power back to the people by walking its users through the process of planning, organizing, and executing MegaProjects.
 
 The world is ready for the MindFlower. 
-The world is ready for the Adventure Guide.
-The world is ready for the Quest Log.
 
 When we were young, they told us we could be anything and do anything we put our minds to. We're the generation that is going to make that fact obvious to the next generation.
 
